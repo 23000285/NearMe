@@ -25,8 +25,10 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-```
+
 ### map.html
+
+```
 
 <!DOCTYPE html>
 <html>
@@ -48,8 +50,10 @@ Execute the programs and publish them.
     </body>
 </html>
 
-### forests.html
+```
 
+### forests.html
+```
 <html>
     <head>
         <title>FORESTS</title>
@@ -75,12 +79,12 @@ Execute the programs and publish them.
             <li style="color:rgb(0, 255, 221); font-size:20px">The Srivenkateshwara National Park is also located in these ranges. The famous Natural Arch, Tirumala Hills is also a part of Seshachalam Hills, which dates back to the period in between Middle and Upper Proterozoic Eon.</li>
         </B>
         </ol>
-        
     </body>
 </html>
 
+```
 ### temple.html
-
+```
 <html>
     <head>
         <title>TEMPLE</title>
@@ -107,9 +111,9 @@ Execute the programs and publish them.
         
     </body>
 </html>
-
+```
 ### airport.html
-
+```
 <html>
     <head>
         <title>AIRPORT</title>
@@ -138,9 +142,9 @@ Execute the programs and publish them.
         
     </body>
 </html>
-
+```
 ### zoo.html
-
+```
 <html>
     <head>
         <title>ZOO</title>
@@ -173,10 +177,10 @@ Execute the programs and publish them.
         
     </body>
 </html>
-
+```
 
 ### dam.html
-
+```
 <html>
     <head>
         <title>DAM</title>
