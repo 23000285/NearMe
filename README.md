@@ -25,9 +25,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
-### map.html
 ```
+### map.html
+
 <!DOCTYPE html>
 <html>
     <body>
@@ -47,9 +47,9 @@ Execute the programs and publish them.
         </map>
     </body>
 </html>
-```
+
 ### forests.html
-```
+
 <html>
     <head>
         <title>FORESTS</title>
@@ -78,9 +78,9 @@ Execute the programs and publish them.
         
     </body>
 </html>
-```
+
 ### temple.html
-```
+
 <html>
     <head>
         <title>TEMPLE</title>
@@ -107,9 +107,9 @@ Execute the programs and publish them.
         
     </body>
 </html>
-```
+
 ### airport.html
-```
+
 <html>
     <head>
         <title>AIRPORT</title>
@@ -138,9 +138,9 @@ Execute the programs and publish them.
         
     </body>
 </html>
-```
+
 ### zoo.html
-```
+
 <html>
     <head>
         <title>ZOO</title>
@@ -174,9 +174,9 @@ Execute the programs and publish them.
     </body>
 </html>
 
-```
+
 ### dam.html
-```
+
 <html>
     <head>
         <title>DAM</title>
